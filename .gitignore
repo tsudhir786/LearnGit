@@ -1,1 +1,4 @@
-/bin/
+src/Secret.xml
+bin
+.gitignore
+src/Sum.java
